@@ -70,8 +70,8 @@
     $mail->Port = '587';
     $mail->SMTPSecure = 'tls';
     $mail->SMTPAuth = true;
-    $mail->Username = "ro.jg01@hotmail.com";
-    $mail->Password = "solucion036";
+    $mail->Username = "correodeprueba.867@outlook.es";
+    $mail->Password = "Prueba1234567";
     //);
     $mail->AddAddress("ro.jg01@hotmail.com");
     //$mail->AddAddress("vrofer@gmail.com");
