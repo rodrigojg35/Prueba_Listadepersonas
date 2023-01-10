@@ -74,7 +74,7 @@
     $mail->Password = "Prueba1234567";
     //);
     $mail->AddAddress("ro.jg01@hotmail.com");
-    //$mail->AddAddress("vrofer@gmail.com");
+    //$mail->AddAddress("vrofer@gmail.com");   otro ejemplo de destinatario
     
     $mail->FromName = "Rodrigo";
     $mail->Subject = "Reporte de personas";
